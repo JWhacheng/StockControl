@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Sat Jan 27 12:39:21 COT 2018:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0161-38b3-c675-000005129a58 
-on database directory C:\Users\Joseph Whacheng\Desktop\ProyectosJava\Mis proyectos\Dimasac Proyecto\GestorDeInventarios\DB with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
-Loaded from file:/C:/Users/Joseph%20Whacheng/Desktop/ProyectosJava/Mis%20proyectos/Dimasac%20Proyecto/GestorDeInventarios/lib/derby.jar
+Sun Jan 28 00:59:16 COT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0161-3b59-2fd3-000005160eb8 
+on database directory C:\Users\Joseph Whacheng\Desktop\StockControl\DB with class loader sun.misc.Launcher$AppClassLoader@3d4eac69 
+Loaded from file:/C:/Users/Joseph%20Whacheng/Desktop/StockControl/lib/derby.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_101-b13
-user.dir=C:\Users\Joseph Whacheng\Desktop\ProyectosJava\Mis proyectos\Dimasac Proyecto\GestorDeInventarios
+user.dir=C:\Users\Joseph Whacheng\Desktop\StockControl
 os.name=Windows 10
 os.arch=amd64
 os.version=10.0

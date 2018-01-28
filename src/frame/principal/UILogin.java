@@ -303,7 +303,7 @@ public class UILogin extends javax.swing.JFrame {
     private void itmAcercaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_itmAcercaActionPerformed
         // TODO add your handling code here:
         ImageIcon icon = new ImageIcon(getClass().getResource("/recursos/icon.png"));
-        JOptionPane.showMessageDialog(null, "StockControl\nVersión: 1.0\nDIMASAC - 2018\nJW Solutions", "Acerca de", JOptionPane.INFORMATION_MESSAGE, icon);
+        JOptionPane.showMessageDialog(null, "StockControl\nVersión: 1.0\nJW Solutions", "Acerca de", JOptionPane.INFORMATION_MESSAGE, icon);
     }//GEN-LAST:event_itmAcercaActionPerformed
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
